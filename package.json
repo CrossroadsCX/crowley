@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
-    "debug": "^2.6.1"
+    "debug": "^2.6.9"
   },
   "devDependencies": {
     "chai": "^3.5.0",
