@@ -15,7 +15,7 @@ module.exports = bot => {
 
 
   // responds to "johnagan" in a text
-  bot.hears(/johnagan/, (payload, bot, match) => {
+  bot.hears(/crowley/, (payload, bot, match) => {
     let payloadMsg = '```' + JSON.stringify(payload, null, 4) + '```'
 
     bot.reply(payload, {
