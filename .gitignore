@@ -1,4 +1,4 @@
 node_modules
-.serverless
 .vscode
 .DS_Store
+.env
